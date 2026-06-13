@@ -1,3 +1,5 @@
-r = int(input("Enter the radius: "))
-area = 3.14*r**0.5
-print(area)
+print("program to compute the area")
+rad = input("Enter the radius of a circle")
+pie=3.14
+area =pie*rad*rad
+print(rad)
