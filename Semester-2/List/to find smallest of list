@@ -1,0 +1,14 @@
+def small(lst):
+    
+    if not lst:
+        return None
+        
+    smallest = lst[0]
+    
+    for x in lst:
+        if x < smallest:
+            smallest = x
+    return smallest
+        
+list = [12,13,14,15]
+print("Smallest element: ", small(list))
