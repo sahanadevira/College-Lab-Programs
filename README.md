@@ -53,4 +53,4 @@ The purpose of this repository is to:
 
 I am an Electronics and Communication Engineering (ECE) student passionate about programming, electronics, problem-solving, and continuous learning.
 
-Thank you for visiting this repository!
+Thank you for visiting my repository!
