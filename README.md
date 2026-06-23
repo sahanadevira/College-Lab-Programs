@@ -34,7 +34,7 @@ This section includes Python programming exercises such as:
 - Python programs using tuples and dictionary
 - Python programs to handle exceptions
 - Python programs using modules and packages
-- Python programs to release digital logic gates and digital logic circuits
+- Python programs to realize digital logic gates and digital logic circuits
   
 
 ##  Purpose
